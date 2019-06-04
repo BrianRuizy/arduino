@@ -1,3 +1,6 @@
+/* Code for traffic lights project on arduino
+   can be further implemented to create a pedestrian 'button' */
+
 int red = 10;
 int yellow = 9;
 int green = 8;
