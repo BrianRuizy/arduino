@@ -1,3 +1,7 @@
+/* This program allows for the numerical and character entry
+   onto Arduino starter kit 4x4 keypad, can be improved to creating a
+   const password, for the user to enter. */
+   
 #include <Keypad.h>
 
 const byte ROWS = 4; 
